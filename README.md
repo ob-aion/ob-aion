@@ -43,7 +43,7 @@
 
 <table>
   <tr>
-    <td><sub><code>SYSTEM</code></sub></td>
+    <td><sub><code>ADVANCEMENT</code></sub></td>
     <td><sub><code>STATUS</code></sub></td>
   </tr>
   <tr>
@@ -59,7 +59,36 @@
     <td><sub>compiling</sub></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/coroboros/ci"><code>coroboros/ci</code></a></td>
+    <td><sub>operational</sub></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td><sub><code>REPAIRS</code></sub></td>
+    <td><sub><code>STATUS</code></sub></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/coroboros/uri"><code>coroboros/uri</code></a></td>
+    <td><sub>shipped</sub></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/coroboros/location-timezone"><code>coroboros/location-timezone</code></a></td>
+    <td><sub>shipped</sub></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/coroboros/clone"><code>coroboros/clone</code></a></td>
+    <td><sub>shipped</sub></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/coroboros/sparkline"><code>coroboros/sparkline</code></a></td>
+    <td><sub>shipped</sub></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/coroboros/pdf-cleaner"><code>coroboros/pdf-cleaner</code></a></td>
     <td><sub>shipped</sub></td>
   </tr>
 </table>
