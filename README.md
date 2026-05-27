@@ -44,22 +44,27 @@
 <table>
   <tr>
     <td><sub><code>ADVANCEMENT</code></sub></td>
+    <td></td>
     <td><sub><code>STATUS</code></sub></td>
   </tr>
   <tr>
     <td><a href="https://github.com/coroboros/agent-skills"><code>coroboros/agent-skills</code></a></td>
+    <td><sub>skills for ai agents</sub></td>
     <td><sub>operational</sub></td>
   </tr>
   <tr>
     <td><a href="https://github.com/coroboros/archivist"><code>coroboros/archivist</code></a></td>
+    <td><sub>claude ecosystem reference</sub></td>
     <td><sub>canonical</sub></td>
   </tr>
   <tr>
     <td><a href="https://github.com/coroboros/research"><code>coroboros/research</code></a></td>
+    <td><sub>articles and research notes</sub></td>
     <td><sub>compiling</sub></td>
   </tr>
   <tr>
     <td><a href="https://github.com/coroboros/ci"><code>coroboros/ci</code></a></td>
+    <td><sub>reusable github actions</sub></td>
     <td><sub>operational</sub></td>
   </tr>
 </table>
@@ -69,26 +74,32 @@
 <table>
   <tr>
     <td><sub><code>REPAIRS</code></sub></td>
+    <td></td>
     <td><sub><code>STATUS</code></sub></td>
   </tr>
   <tr>
     <td><a href="https://github.com/coroboros/uri"><code>coroboros/uri</code></a></td>
+    <td><sub>multi-rfc uri toolkit</sub></td>
     <td><sub>shipped</sub></td>
   </tr>
   <tr>
     <td><a href="https://github.com/coroboros/location-timezone"><code>coroboros/location-timezone</code></a></td>
+    <td><sub>country and timezone lookups</sub></td>
     <td><sub>shipped</sub></td>
   </tr>
   <tr>
     <td><a href="https://github.com/coroboros/clone"><code>coroboros/clone</code></a></td>
+    <td><sub>deep clone and freeze</sub></td>
     <td><sub>shipped</sub></td>
   </tr>
   <tr>
     <td><a href="https://github.com/coroboros/sparkline"><code>coroboros/sparkline</code></a></td>
+    <td><sub>svg sparkline generator</sub></td>
     <td><sub>shipped</sub></td>
   </tr>
   <tr>
     <td><a href="https://github.com/coroboros/pdf-cleaner"><code>coroboros/pdf-cleaner</code></a></td>
+    <td><sub>strip pdf metadata and links</sub></td>
     <td><sub>shipped</sub></td>
   </tr>
 </table>
