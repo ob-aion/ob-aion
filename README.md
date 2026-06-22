@@ -53,19 +53,39 @@
     <td><sub>operational</sub></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/coroboros/scrybe"><code>coroboros/scrybe</code></a></td>
+    <td><sub>offline transcription cli</sub></td>
+    <td><sub>shipped</sub></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/coroboros/archivist"><code>coroboros/archivist</code></a></td>
     <td><sub>claude ecosystem reference</sub></td>
     <td><sub>canonical</sub></td>
   </tr>
   <tr>
     <td><a href="https://github.com/coroboros/research"><code>coroboros/research</code></a></td>
-    <td><sub>articles and research notes</sub></td>
+    <td><sub>long-form technical research</sub></td>
     <td><sub>compiling</sub></td>
   </tr>
+</table>
+
+<br>
+
+<table>
   <tr>
-    <td><a href="https://github.com/coroboros/ci"><code>coroboros/ci</code></a></td>
-    <td><sub>reusable github actions</sub></td>
-    <td><sub>operational</sub></td>
+    <td><sub><code>DEFENSE</code></sub></td>
+    <td></td>
+    <td><sub><code>STATUS</code></sub></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/coroboros/skillward"><code>coroboros/skillward</code></a></td>
+    <td><sub>audit skills before install</sub></td>
+    <td><sub>shipped</sub></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/coroboros/shellscan"><code>coroboros/shellscan</code></a></td>
+    <td><sub>shell security scanner image</sub></td>
+    <td><sub>mirror</sub></td>
   </tr>
 </table>
 
@@ -101,6 +121,36 @@
     <td><a href="https://github.com/coroboros/pdf-cleaner"><code>coroboros/pdf-cleaner</code></a></td>
     <td><sub>strip pdf metadata and links</sub></td>
     <td><sub>shipped</sub></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td><sub><code>THE LOOM</code></sub></td>
+    <td></td>
+    <td><sub><code>STATUS</code></sub></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/coroboros/ci"><code>coroboros/ci</code></a></td>
+    <td><sub>internal ci, imposed not proposed</sub></td>
+    <td><sub>operational</sub></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/coroboros/homebrew-tap"><code>coroboros/homebrew-tap</code></a></td>
+    <td><sub>cli distribution tap</sub></td>
+    <td><sub>operational</sub></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/coroboros/karate"><code>coroboros/karate</code></a></td>
+    <td><sub>api integration test image</sub></td>
+    <td><sub>mirror</sub></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/coroboros/skillward-bundle"><code>coroboros/skillward-bundle</code></a></td>
+    <td><sub>offline scanner image</sub></td>
+    <td><sub>mirror</sub></td>
   </tr>
 </table>
 
